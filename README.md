@@ -3,12 +3,12 @@ Haus of Bakes has been serving fresh and delicious baked goods since 2026. We us
 
 # products
 Brownie
-![Alt text](images/Brownie.jpg)
+![Brownie](images/Brownie.jpg)
 Buns
-![Alt text](images/Buns.jpg)
+![Buns](images/Buns.jpg)
 Croissant 🥐
-![Alt text](images/Croissant.jpg)
+![Croissant](images/Croissant.jpg)
 TIramisu
-![Alt text](images/Tiramisu.jpg)
+![Tiramisu](images/Tiramisu.jpg)
 sourdough
-![Alt text](images/sourdough.jpg)
+![Sourdough](images/sourdough.jpg)
