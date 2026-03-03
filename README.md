@@ -6,4 +6,4 @@ Haus of Bakes has been serving fresh and delicious baked goods since 2026. We us
 ![Alt text](images/Buns.jpg)
 ![Alt text](images/Croissant.jpg)
 ![Alt text](images/Tiramisu.jpg)
-![Alt text](images/Sourdough.jpg)
+![Alt text](images/sourdough.jpg)
